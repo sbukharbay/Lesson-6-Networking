@@ -1,0 +1,6 @@
+framework module Pods_Lesson_6__Networking {
+  umbrella header "Pods-Lesson-6. Networking-umbrella.h"
+
+  export *
+  module * { export * }
+}
